@@ -1,0 +1,5 @@
+vendor_id,vendor_name,aliases,status,country
+VEN-001,Acme Technology Services,Acme Tech|Acme Technology Services LLC,ACTIVE,US
+VEN-002,BrightPath Consulting,BrightPath Consulting Inc|BrightPath,ACTIVE,US
+VEN-003,Northstar Office Supply,Northstar Office Supply Co|Northstar,ACTIVE,US
+VEN-004,Solstice Digital Studio,Solstice Digital,INACTIVE,US

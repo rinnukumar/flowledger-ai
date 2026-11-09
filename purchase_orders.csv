@@ -1,0 +1,5 @@
+po_number,vendor_id,currency,po_amount,billed_to_date,tolerance_pct,status,description
+PO-1001,VEN-001,USD,12000.00,3000.00,2.0,OPEN,Cloud migration services
+PO-1002,VEN-002,USD,6000.00,5000.00,1.0,OPEN,Consulting services
+PO-1003,VEN-003,USD,10000.00,2000.00,0.0,OPEN,Office equipment and supplies
+PO-1004,VEN-004,USD,4000.00,0.00,0.0,CLOSED,Digital design services
